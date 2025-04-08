@@ -43,7 +43,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Mathias205&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
