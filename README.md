@@ -49,5 +49,5 @@
 ### 👁️ Visualizaciones
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/baxx-fxf3/count.svg" />
+  <img src="https://profile-counter.glitch.me/baxx.fxf3/count.svg" />
 </p>
