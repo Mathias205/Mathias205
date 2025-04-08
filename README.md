@@ -14,7 +14,7 @@
 <a href="https://fb.com/ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ad" height="30" width="40"/></a>
 <a href="https://instagram.com/adsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adsas" height="30" width="40"/></a>
 <a href="https://www.youtube.com/c/bax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bax" height="30" width="40"/></a>
-<a href="https://discord.gg/SAD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SAD" height="30" width="40"/></a>
+
 </p>
 
 
