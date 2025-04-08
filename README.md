@@ -19,6 +19,9 @@
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a> 
 <a href="#"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 </p>
+
+---
+
 ### 🛠️ Lenguajes
 
 
