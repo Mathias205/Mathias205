@@ -16,7 +16,6 @@
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </p>
----
 
 ### 🛠️ Lenguajes
 
