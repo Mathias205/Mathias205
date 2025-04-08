@@ -22,13 +22,19 @@
 ### 🛠️ Lenguajes
 <p align="center">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">;
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
 <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>;
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">;
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> React
+    <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
    </p>
 
