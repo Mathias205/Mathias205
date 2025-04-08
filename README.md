@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️🛠️🛠️🛠️ Idiomas
+### 🛠️ Idiomas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
@@ -39,7 +39,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/baxx-fxf3">
+  <a href="https://github.com/baxx.fxf3">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx-fxf3&theme=github-dark&hide_border=false" />
   </a>
