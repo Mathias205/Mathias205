@@ -48,7 +48,7 @@ nono pero como para esto
 
   <p align="center">
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-    </p>
+  
 </p>
 
 ---
