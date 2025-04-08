@@ -20,10 +20,10 @@
 ---
 
 ### 🛠️ Lenguajes
-<p align="center">
-<a ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; /a>
-<a ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;/a>
-</p>
+
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 ---
 
 ### 📊 Estadísticas
