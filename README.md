@@ -45,9 +45,11 @@ nono pero como para esto
       alt="react"/> 
   </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  
-</p>
 
+  <p align="center">
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+    </p>
+</p>
 
 ---
 
