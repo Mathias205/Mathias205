@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Estadísticas
+### 📊 Estadísticas
 
 <p align="center">
 <a href="https://github.com/baxx.fxf3">
