@@ -12,6 +12,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mathias-soria-58593728a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asd" height="30" width="40"/></a>
 <a href="https://www.instagram.com/baxx_fxf.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adsas" height="30" width="40"/></a>
+<a href="hhttps://www.facebook.com/profile.php?id=61569591699000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@baxx.fxf3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bax" height="30" width="40"/></a>
 
 </p>
