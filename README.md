@@ -1,3 +1,7 @@
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3A3czdram9sNTFxbjJkdzNhd25qeHZ0ZW04NnA1dHR6dXFvc3htcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fk4DMgxTAX1447D8Bc/giphy.gif" width ="25"><b> Language and Tools</b>
+<br>
 <p align="center">
   <img src="https://i.postimg.cc/MZNBf5zW/2.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
 </p>
