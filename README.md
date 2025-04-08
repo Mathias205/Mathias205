@@ -39,15 +39,16 @@
     <img src="https://img.shields.io/badge/reactjs-3399ff.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <img src="https://img.shields.io/badge/PHP-6666ff?style=for-the-badge&logo=php&logoColor=white"
+  <img src="https://img.shields.io/badge/PHP-6666ff?style=for-the-badge&logo=php&logoColor=white"> 
+  </a>
     </p>
 
   <p align="center">
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
         </a>
-      <img src="https://img.shields.io/badge/MySQL-0099cc?style=for-the-badge&logo=mysql&logoColor=white" 
+      <img src="https://img.shields.io/badge/MySQL-0099cc?style=for-the-badge&logo=mysql&logoColor=white" >
       </a>
-       <img src="https://img.shields.io/badge/Hoppscotch-009933?style=for-the-badge&logo=Hoppscotch&logoColor=white"
+       <img src="https://img.shields.io/badge/Hoppscotch-009933?style=for-the-badge&logo=Hoppscotch&logoColor=white">
         </a>
         <a href="https://github.com/" target="_blank">
    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
