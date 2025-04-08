@@ -82,5 +82,5 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/QNmMbT4w/anime.gif" width="100%" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://i.postimg.cc/QNmMbT4w/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
