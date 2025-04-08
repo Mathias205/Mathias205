@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola 👋, soy Mathias Soria</h1>
-<p align="center"><em>"Si puedes imaginarlo, puedes programarlo."</em></p>
+<p align="center"><em>"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</em></p>
 
 ---
 
