@@ -5,7 +5,6 @@
 <h1 align="center">Hello 👋, I am Mathias Soria and I am a Software Engineer </h1>
 <p align="center">"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</p>
 
----
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
