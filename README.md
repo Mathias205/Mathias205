@@ -61,7 +61,10 @@
 
 ---
 
-### 📊 Statistics
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3d2UzOGJsdGNzbHU4Z2t0MzJhNWRhN3VicTc1dzBkeWQya3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AkKYt4nasYN07UMgIe/giphy.gif" width ="25"><b> Statistics</b>
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=tokyonight&count_private=true"/>
