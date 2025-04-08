@@ -6,7 +6,7 @@
 <p align="center">"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</p>
 
 ---
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 ### 🎯 Networks
 
@@ -21,8 +21,8 @@
 
 
 ---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
