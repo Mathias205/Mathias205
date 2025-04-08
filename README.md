@@ -62,7 +62,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3d2UzOGJsdGNzbHU4Z2t0MzJhNWRhN3VicTc1dzBkeWQya3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AkKYt4nasYN07UMgIe/giphy.gif" width ="25"><b> Statistics</b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FhbGdoMzN1cThmMjMzODUydnViYjYyYWphcmIwdG82OHZzMHR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width ="25"><b> Statistics</b>
 <br>
 
 <p align="center">
