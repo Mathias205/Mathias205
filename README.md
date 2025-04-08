@@ -40,6 +40,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathias205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathias205&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://streak-stats.demolab.com?user=Mathias205&theme=algolia&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
