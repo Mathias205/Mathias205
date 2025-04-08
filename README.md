@@ -10,13 +10,13 @@
 ### 🎯 Networks
 
 <p align="center">
-<a href="#"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-<a href="#"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://linkedin.com/in/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asd" height="30" width="40"/></a>
+<a href="https://fb.com/ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ad" height="30" width="40"/></a>
+<a href="https://instagram.com/adsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adsas" height="30" width="40"/></a>
+<a href="https://www.youtube.com/c/bax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bax" height="30" width="40"/></a>
+<a href="https://discord.gg/SAD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SAD" height="30" width="40"/></a>
 </p>
+
 
 ---
 
