@@ -1,5 +1,5 @@
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/RWqJsKg" data-context="false" ><a href="//imgur.com/a/RWqJsKg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/TxZtndD.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
 <h1 align="center">Hi 👋, soy Mathias Soria</h1>
@@ -41,4 +41,20 @@
   
   <a href="https://github.com/baxx-frt3">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baxx-frt3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx-frt3&theme=github-dark&hide_border_
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx-frt3&theme=github-dark&hide_border=false" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-frt3&layout=compact&theme=github_dark" />
+</div>
+
+---
+
+### 👁️ Visualizaciones
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/baxx-frt3/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/Epw3SbK.jpg" width="300" />
+</p>
