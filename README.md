@@ -18,7 +18,7 @@
 <p align="center">
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a> 
 <a href="#"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-<a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white"></a>
+<a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 
