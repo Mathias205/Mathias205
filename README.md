@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://i.imgur.com/TxZtndD.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://i.postimg.cc/MZNBf5zW/2.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
-<h1 align="center">Hi 👋, soy Mathias Soria</h1>
+<h1 align="center">Hola 👋, soy Mathias Soria</h1>
 <p align="center"><em>"Si puedes imaginarlo, puedes programarlo."</em></p>
 
 ---
 
-### 📡 Networks
+### 🎯 Redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/tu-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@tu-youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tu-facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.gg/tu-discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Idiomas y Herramientas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
@@ -35,16 +35,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Estadísticas
 
 <div align="center">
   
-  <a href="https://github.com/baxx-frt3">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baxx-frt3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx-frt3&theme=github-dark&hide_border=false" />
+  <a href="https://github.com/baxx-fxf3">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx-fxf3&theme=github-dark&hide_border=false" />
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-frt3&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&theme=github_dark" />
 </div>
 
 ---
@@ -52,9 +52,5 @@
 ### 👁️ Visualizaciones
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/baxx-frt3/count.svg" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/Epw3SbK.jpg" width="300" />
+  <img src="https://profile-counter.glitch.me/baxx-fxf3/count.svg" />
 </p>
