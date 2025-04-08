@@ -40,7 +40,7 @@ nono pero como para esto
     <img src="https://img.shields.io/badge/reactjs-3399ff.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+  <img src="https://img.shields.io/badge/PHP-6666ff?style=for-the-badge&logo=php&logoColor=white"
     </p>
 
   <p align="center">
