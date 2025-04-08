@@ -7,8 +7,9 @@ nono pero como para esto
 <p align="center">"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</p>
 
 ---
-
+<p align="center">
 ### 🎯 Networks
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mathias-soria-58593728a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
