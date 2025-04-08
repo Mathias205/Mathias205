@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/MZNBf5zW/2.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
-<h1 align="center">Hola 👋, soy Mathias Soria</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 👋, 𝐈 𝐚𝐦 𝐌𝐚𝐭𝐡𝐢𝐚𝐬 𝐒𝐨𝐫𝐢𝐚 𝐈 𝐚𝐦 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐟𝐫𝐨𝐦 𝐏𝐞𝐫𝐮</h1>
 <p align="center">"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</p>
 
 ---
