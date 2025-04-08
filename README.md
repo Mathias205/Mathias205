@@ -48,7 +48,7 @@ nono pero como para esto
         </a>
       <img src="https://img.shields.io/badge/MySQL-0099cc?style=for-the-badge&logo=mysql&logoColor=white" 
       </a>
-       <img src="[https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=Hoppscotch&logoColor=white ](https://img.shields.io/badge/Hoppscotch-23C48D?style=for-the-badge&logo=Hoppscotch&logoColor=white)"
+       <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=Hoppscotch&logoColor=white"
         </a>
   
 </p>
