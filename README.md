@@ -80,3 +80,7 @@
   <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
 </p>
 
+
+<p align="center">
+  <img src="https://i.postimg.cc/TYdRL4CD/anime.gif" width="100%" alt="Banner estilo gamer de Mathias Soria" />
+</p>
