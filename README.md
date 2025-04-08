@@ -64,4 +64,4 @@ nono pero como para esto
 <p align="center">
   <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
 </p>
-como colocar un icono en el linkedin ya que no aparece
+
