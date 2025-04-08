@@ -38,15 +38,12 @@
 ### 📊 Estadísticas
 
 
-<div align="center">
-  
-  <a href="https://github.com/Mathias205">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=baxx.fxf3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=baxx.fxf3&theme=github-dark&hide_border=false" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx.fxf3&layout=compact&theme=github_dark" />
-</div>
+<p align="center">
+<a href="https://github.com/Mathias205">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ---
