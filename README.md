@@ -14,10 +14,7 @@
 <a href="#"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/tu-usuario-linkedin/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
@@ -43,4 +40,4 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
 </p>
-
+como colocar un icono en el linkedin ya que no aparece
