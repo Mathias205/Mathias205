@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Idiomas
+### 🛠️ Lenguajes
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
