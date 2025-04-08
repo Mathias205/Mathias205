@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hello 👋, I am Mathias Soria and I am a Software Engineer </h1>
+<br>
 <p align="center">"𝙸𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚒𝚖𝚊𝚐𝚒𝚗𝚎 𝚒𝚝, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚝."</p>
 
 
