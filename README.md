@@ -37,7 +37,7 @@ nono pero como para esto
       alt="css3"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+    <img src="https://img.shields.io/badge/reactjs-3399ff.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
