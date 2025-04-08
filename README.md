@@ -8,7 +8,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3A3czdram9sNTFxbjJkdzNhd25qeHZ0ZW04NnA1dHR6dXFvc3htcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fk4DMgxTAX1447D8Bc/giphy.gif" width ="25"><b> Networks</b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3d2UzOGJsdGNzbHU4Z2t0MzJhNWRhN3VicTc1dzBkeWQya3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AkKYt4nasYN07UMgIe/giphy.gif" width ="25"><b> Networks</b>
 <br>
 
 <p align="center">
