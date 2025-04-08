@@ -7,7 +7,7 @@
 
 ---
 
-### 🎯 Redes
+### 🎯 Networks
 
 <p align="center">
 <a href="https://discord.gg/z3WZpqx6"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
@@ -24,12 +24,12 @@
 
 ---
 
-### 🛠️ Lenguajes
+### 🛠️ Languages and Tools
 
 
 ---
 
-### 📊 Estadísticas
+### 📊 Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 👁️ Visualizaciones
+### 👁️ Visualizations
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
