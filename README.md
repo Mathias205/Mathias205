@@ -38,13 +38,12 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathias205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathias205&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://streak-stats.demolab.com?user=Mathias205&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mathias205&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=baxx-fxf3&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
