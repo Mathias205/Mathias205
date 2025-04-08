@@ -37,17 +37,20 @@
 
 ### 📊 Estadísticas
 
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathias205&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathias205&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/TYfNKr4k/github-contribuciones.png" width="300" alt="GitHub Contributions" />
 </p>
 
 ---
 
 ### 👁️ Visualizaciones
 
- 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
 </p>
+
