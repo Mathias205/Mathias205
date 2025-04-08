@@ -84,3 +84,5 @@
 <p align="center">
   <img src="https://i.postimg.cc/QNmMbT4w/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
+
+<p align="center">"A good software developer works with discipline and consistency from day one."</p>
