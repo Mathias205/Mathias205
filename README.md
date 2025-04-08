@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KNbpW2F.png" width="100%" alt="Banner personalizado estilo gamer" />
+  <img src="https://imgur.com/a/RWqJsKg" width="100%" alt="Banner personalizado estilo gamer" />
 </p>
 
 <h1 align="center">Hi 👋, soy Mathias Soria</h1>
