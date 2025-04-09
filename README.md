@@ -72,8 +72,8 @@ pero lo agregarias aqui
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=blue&langs_count=10&hide_border=false&border_radius=10" width="40%" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&
+
 
 
 
