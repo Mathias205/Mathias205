@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/reactjs-3399ff.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> 
   </a>
   <img src="https://img.shields.io/badge/PHP-6666ff?style=for-the-badge&logo=php&logoColor=white"/> 
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
