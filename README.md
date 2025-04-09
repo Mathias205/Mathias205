@@ -80,6 +80,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41.1%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathias205&theme=dark&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathias205&theme=dark&hide_border=false&border_radius=10&fire=DD2727" width="50%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10" width="40%" />
