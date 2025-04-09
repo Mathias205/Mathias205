@@ -67,15 +67,13 @@ pero lo agregarias aqui
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41%" />
-  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=gruvbox&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=cobalt&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41%" />
+  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=cobalt&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=gruvbox&langs_count=10&hide_border=false&border_radius=10" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=cobalt&langs_count=10&hide_border=false&border_radius=10" width="40%" />
 </p>
-
-
 
 
 <br><br>
