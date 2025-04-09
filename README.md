@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c1/c3/77/c1c377b1f46498cd6631880583db5d58.gif"  alt="Today" />
+  <img src="https://imgur.com/a/kiIjd4v"  alt="Today" />
 </p>
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
