@@ -9,7 +9,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3d2UzOGJsdGNzbHU4Z2t0MzJhNWRhN3VicTc1dzBkeWQya3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AkKYt4nasYN07UMgIe/giphy.gif" width ="25"><b> Networks</b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3d2UzOGJsdGNzbHU4Z2t0MzJhNWRhN3VicTc1dzBkeWQya3p3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AkKYt4nasYN07UMgIe/giphy.gif" width="25"><b> Networks</b>
 <br>
 
 <p align="center">
@@ -30,7 +30,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Language and Tools</b>
 <br>
 
 <p align="center">
@@ -85,20 +85,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10" width="40%" />
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width="25"><b> Visualizations</b>
-<br>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1ODNua2xibXlqcnp6anpxNjV0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tJr8A4Fk3cvh1kT7g9/giphy.gif" width="25"><b> Some of my projects </b>
+
+<br><br>
+
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="25"><b> Contact Information</b>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
+  <a href="mailto:mathias.soria2025@gmail.com">
+    <img src="https://img.shields.io/badge/email%20me-%231C1C1C.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="300" height="200" alt="Today" />
+  <a href="https://github.com/baxx-fxf3">
+    <img src="https://img.shields.io/badge/Visit%20My%20GitHub-%231B1B1B.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-
-<p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
