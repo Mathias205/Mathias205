@@ -1,4 +1,3 @@
-pero lo agregarias aqui 
 <p align="center">
   <img src="https://i.postimg.cc/MZNBf5zW/2.png" width="100%" alt="Banner estilo gamer de Mathias Soria" />
 </p>
