@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/11/berserk-gif-8.gif"  alt="Today" />
+  <img src="https://i.postimg.cc/tCKRHxxz/Thorfinn-No-Enemies-GIF-Thorfinn-No-enemies-Discover-Share-GIFs.gif"  alt="Today" />
 </p>
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
