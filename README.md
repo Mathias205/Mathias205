@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://streamable.com/fkxa9d" width="300" height="200" frameborder="0" allowfullscreen></iframe>
+  <img src="https://i.postimg.cc/Vs47VJ6Z/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
 
