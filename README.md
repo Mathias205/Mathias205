@@ -67,12 +67,12 @@ pero lo agregarias aqui
 <br><br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baxx-fxf3&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&border_radius=10" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&border_radius=10" width="42%" />
+  <img src="https://streak-stats.demolab.com/?user=baxx-fxf3&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="50%" />
 </p>
 
 
