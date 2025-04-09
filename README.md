@@ -90,7 +90,7 @@
 
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![GIF de introducción](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)<br><br>
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width="25"><b> Visualizations</b>
 <br>
 
@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/G5dl5UM.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  ![Banner estilo gamer de Mathias Soria](https://i.imgur.com/G5dl5UM.gif)
 </p>
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
