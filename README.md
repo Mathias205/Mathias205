@@ -65,7 +65,7 @@
 <br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="40%" />
-  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="48%" />
 </p>
 
 <p align="center">
