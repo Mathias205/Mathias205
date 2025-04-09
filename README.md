@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/reactjs-3399ff.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> 
   </a>
   <img src="https://img.shields.io/badge/PHP-6666ff?style=for-the-badge&logo=php&logoColor=white"/> 
-
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -65,12 +65,15 @@
   <a href="https://github.com/" target="_blank">
     <img alt="Android Studios" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
   </a>
-  <a href="https://github.com/" target="_blank">
+</p>
+<p align="center">
+<a href="https://github.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   </a>
   <a href="https://github.com/" target="_blank">
     <img alt="Netbeans" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white">
   </a>
+
 </p>
 
 <br><br>
