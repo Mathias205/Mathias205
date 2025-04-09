@@ -90,9 +90,8 @@ pero lo agregarias aqui
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitor%20Counter-{{VISIT_COUNT}}-5c6bc0?style=flat-square&logo=github" alt="Visit Counter" />
+  <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
 </p>
-
 
 <p align="center">
   <img src="https://i.postimg.cc/QNmMbT4w/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
