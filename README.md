@@ -14,9 +14,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mathias-soria-58593728a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
 <a href="https://www.instagram.com/baxx_fxf.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
-<a href="hhttps://www.facebook.com/profile.php?id=61569591699000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61569591699000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@baxx.fxf3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40"/></a>
-
 </p>
 
 <br><br>
@@ -71,8 +70,20 @@
   
 </p>
 
-
 <br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FhbGdoMzN1cThmMjMzODUydnViYjYyYWphcmIwdG82OHZzMHR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width ="25"><b> Statistics</b>
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41.1%" />
+  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=dark&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10" width="40%" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width="25"><b> Visualizations</b>
 <br>
