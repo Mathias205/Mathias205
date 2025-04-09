@@ -91,7 +91,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width ="25"><b> Visualizations</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width="25"><b> Visualizations</b>
 <br>
 
 <p align="center">
@@ -99,11 +99,8 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/VRcmssO" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://i.imgur.com/VRcmssO.png" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
-
-
-<p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
-
+<p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
 
