@@ -100,7 +100,11 @@ pero lo agregarias aqui
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/QNmMbT4w/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  <video width="300" height="200" controls autoplay loop>
+    <source src="https://streamable.com/fkxa9d" type="video/mp4">
+    Tu navegador no soporta el video.
+  </video>
 </p>
+
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
