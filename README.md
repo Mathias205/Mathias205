@@ -93,7 +93,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <img src="https://i.postimg.cc/tCKRHxxz/Thorfinn-No-Enemies-GIF-Thorfinn-No-enemies-Discover-Share-GIFs.gif" width="300" height="200" alt="Today" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5emxiajhnZjJza3ptZzZudjRxMHJrcjVkbXd0cG1kZGR6cmdmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdiKAJKWwPJe2tHjl9/giphy.gif" width="300" height="200" alt="Today" />
 </p>
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
