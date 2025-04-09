@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/c1/c3/77/c1c377b1f46498cd6631880583db5d58.gif](https://imgur.com/a/WtiAVzm)" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://imgur.com/a/WtiAVzm" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
