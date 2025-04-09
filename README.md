@@ -68,6 +68,9 @@
   <a href="https://github.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   </a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="Netbeans" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white">
+  </a>
 </p>
 
 <br><br>
