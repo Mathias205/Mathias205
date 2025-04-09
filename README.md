@@ -64,6 +64,9 @@ pero lo agregarias aqui
 <a href="https://github.com/" target="_blank">
    <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
 </a>
+<a href="https://github.com/" target="_blank">
+   <img alt="Android Studios" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
+</a>
   
 </p>
 
