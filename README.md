@@ -81,13 +81,7 @@ pero lo agregarias aqui
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&border_radius=10" alt="Top Languages" width="450"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baxx-fxf3&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" alt="GitHub Streak" width="450"/>
-</p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/baxx-fxf3/count.svg" />
-</p>
 
 
 <br><br>
