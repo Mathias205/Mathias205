@@ -65,10 +65,6 @@ pero lo agregarias aqui
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FhbGdoMzN1cThmMjMzODUydnViYjYyYWphcmIwdG82OHZzMHR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width ="25"><b> Statistics</b>
 <br><br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
-</p>
-
 
 
 <br><br>
