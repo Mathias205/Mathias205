@@ -84,10 +84,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10&random=12345" width="40%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10" width="40%" />
 </p>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
