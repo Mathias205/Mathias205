@@ -64,12 +64,12 @@
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FhbGdoMzN1cThmMjMzODUydnViYjYyYWphcmIwdG82OHZzMHR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q24z3W4CY5r0uXeTWA/giphy.gif" width ="25"><b> Statistics</b>
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxx-fxf3&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxx-fxf3&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&border_radius=10" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&border_radius=10" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baxx-fxf3&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=Mathias205&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" width="50%" />
 </p>
 
 
