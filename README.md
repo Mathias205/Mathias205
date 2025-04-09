@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/pVD9Wj8k/Berserk-3-VEED.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://i.postimg.cc/hPmhyd4V/anime.gif" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
 
