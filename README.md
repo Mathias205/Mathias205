@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/BH5cMmXG" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
+  <img src="https://imgur.com/a/VRcmssO" width="300" height="200" alt="Banner estilo gamer de Mathias Soria" />
 </p>
 
 
