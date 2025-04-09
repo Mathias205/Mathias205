@@ -100,11 +100,9 @@ pero lo agregarias aqui
 </p>
 
 <p align="center">
-  <video width="300" height="200" controls autoplay loop>
-    <source src="https://streamable.com/fkxa9d" type="video/mp4">
-    Tu navegador no soporta el video.
-  </video>
+  <iframe src="https://streamable.com/fkxa9d" width="300" height="200" frameborder="0" allowfullscreen></iframe>
 </p>
+
 
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
