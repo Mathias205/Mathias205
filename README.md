@@ -60,6 +60,10 @@ pero lo agregarias aqui
 <a href="https://github.com/" target="_blank">
    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 </a>
+
+<a href="https://github.com/" target="_blank">
+   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
+</a>
   
 </p>
 
