@@ -67,6 +67,9 @@ pero lo agregarias aqui
 <a href="https://github.com/" target="_blank">
    <img alt="Android Studios" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
 </a>
+<a href="https://github.com/" target="_blank">
+   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+</a>
   
 </p>
 
