@@ -83,7 +83,7 @@ pero lo agregarias aqui
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visits-{{VISIT_COUNT}}-blue?style=for-the-badge&logo=github" alt="Visit counter" />
+  <img src="https://img.shields.io/badge/Visitor%20Counter-{{VISIT_COUNT}}-5c6bc0?style=flat-square&logo=github" alt="Visit Counter" />
 </p>
 
 
