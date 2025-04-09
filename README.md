@@ -83,7 +83,7 @@ pero lo agregarias aqui
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
+  <img src="https://img.shields.io/badge/Visits-{{VISIT_COUNT}}-blue?style=for-the-badge&logo=github" alt="Visit counter" />
 </p>
 
 
